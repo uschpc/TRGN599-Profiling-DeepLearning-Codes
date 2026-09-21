@@ -1,4 +1,4 @@
-# TAC week5 
+# Tensorboard
 
 Tensorboard Tutorial Link: https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html
 
