@@ -3,28 +3,9 @@
 Tensorboard Tutorial Link: https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html
 
 
-## Software Environment Setup
-
-First login to CARC OnDemand: https://ondemand.carc.usc.edu/ and request a 'Discovery Cluster Shell Access' within OpenOnDemand. 
-
-
-We need to request an interactive session:
-
-
-If the reservation is not available, please use the following command to request an interactive session: 
-```bash
-salloc --partition=gpu --gres=gpu:v100:1 --cpus-per-task=8 --mem=32GB --time=01:00:00 --account=sli68423_1965
-```
-or 
-```bash
-salloc --partition=main --cpus-per-task=8 --mem=32GB --time=01:00:00 --account=sli68423_1965
-```
-
-
-
 
 ## Run the Jupyter Notebook 
-Launch the Jupyter Notebook using OnDemand JupyterLab and run the different code blocks within the jupyter notebook. 
+Launch the Jupyter Notebook using OnDemand JupyterLab and run the different code blocks within the jupyter notebook. (You can use the main partition as GPU partition might be busy)
 
 
 ## Tensorboard
