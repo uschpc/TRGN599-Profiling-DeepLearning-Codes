@@ -29,7 +29,7 @@ Within the Terminal Apps, change your working direcotry to your scratch director
 cd /scratch1/$(whoami)
 ```
 ```
-cd week5/TAC450-DataScience-Fall2026/week5
+cd CARC/TRGN599-Profiling-DeepLearning-Codes
 ```
 
 
