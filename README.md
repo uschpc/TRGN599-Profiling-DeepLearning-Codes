@@ -11,7 +11,7 @@ Here we train a CNN on the MNIST dataset using a single GPU as an example. We pr
 
 ## Step 1: Software Environment Setup
 
-Follow the instruction of week3. 
+Follow the instruction of Conda Setup. 
 
 ### Clone this repo and start learning how to run deep learning applications in HPC system. 
 First login to CARC OnDemand: https://ondemand.carc.usc.edu/ and request a 'Discovery Cluster Shell Access' within OpenOnDemand.
