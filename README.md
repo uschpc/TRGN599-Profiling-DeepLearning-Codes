@@ -20,8 +20,8 @@ First login to CARC OnDemand: https://ondemand.carc.usc.edu/ and request a 'Disc
 cd /scratch1/$(whoami)
 mkdir CARC
 cd CARC
-git clone https://github.com/uschpc/TAC450-DataScience-Fall2026
-cd TAC450-DataScience-Fall2026/week4
+git clone https://github.com/uschpc/TRGN599-Profiling-DeepLearning-Codes.git
+cd TRGN599-Profiling-DeepLearning-Codes
 ```
 
 
