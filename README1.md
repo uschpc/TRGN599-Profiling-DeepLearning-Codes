@@ -21,23 +21,7 @@ salloc --partition=main --cpus-per-task=8 --mem=32GB --time=01:00:00 --account=s
 ```
 
 
-Change your working direcotry to your scratch directory and clone the repo:
-```
-cd /scratch1/$(whoami)
-```
-```
-mkdir week5
-cd week5
-```
-```
-git clone https://github.com/uschpc/TAC450-DataScience-Fall2026
-cd TAC450-DataScience-Fall2026/week5
-```
 
-After the installation, please exit from the compute node. 
-```
-exit
-```
 
 ## Run the Jupyter Notebook 
 Launch the Jupyter Notebook using OnDemand JupyterLab and run the different code blocks within the jupyter notebook. 
