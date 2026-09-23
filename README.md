@@ -17,7 +17,7 @@ Follow the instruction of Conda Setup.
 First login to CARC OnDemand: https://ondemand.carc.usc.edu/ and request a 'Discovery Cluster Shell Access' within OpenOnDemand.
 
 ```bash
-cd /scratch1/$(whoami)
+cd /scratch2/$(whoami)
 mkdir CARC
 cd CARC
 git clone https://github.com/uschpc/TRGN599-Profiling-DeepLearning-Codes.git
