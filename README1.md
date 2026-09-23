@@ -26,7 +26,7 @@ Launch ‘Terminal’ Apps in OpenOnDemand :
 
 Within the Terminal Apps, change your working direcotry to your scratch directory:
 ```
-cd /scratch1/$(whoami)
+cd /scratch2/$(whoami)
 ```
 ```
 cd CARC/TRGN599-Profiling-DeepLearning-Codes
